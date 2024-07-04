@@ -299,7 +299,9 @@ ul.task-list input[type="checkbox"] {
     padding-bottom: 0;
     padding-top: 0;
     font-size: 1.7rem;
-
+    .fa-envelope {
+      font-size: 12px;
+    }
     a {
       i::before {
         color: var(--global-text-color);
